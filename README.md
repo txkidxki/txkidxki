@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World this is my github 🥳💡
+* 🤍 My name is Rattanakorn Rengphian
+* 💻 Bachelor of Science Program in Software Engineering (International Program)
+* 🧡 College of Arts, Media and Technology (CAMT)
+* 💜 Chiang Mai University
+* 📟 I’m looking for Frontend Developer and Flutter developer position
+
 
 <!--
 **txkidxki/txkidxki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
